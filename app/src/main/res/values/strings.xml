@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppAndroid</string>
+    <string name="action_settings">configuracoes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">primeiro fragmento</string>
+    <string name="second_fragment_label">segundo fragmento</string>
+    <string name="next">Proximo</string>
+    <string name="previous">Anterior</string>
+    <string name="titulo_app">operacoes</string>
+    <string name="hello_first_fragment">OLa primeiro fragmento</string>
+    <string name="hello_second_fragment">Ola segundo fragmento. Arg: %1$s</string>
+</resources>
